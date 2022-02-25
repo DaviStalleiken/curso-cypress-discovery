@@ -1,0 +1,50 @@
+{
+    "signup": {
+        "name": "Davi Stalleiken",
+        "cpf": "00000014141",
+        "email": "davi@hotmail.com",
+        "whatsapp": "21999999999",
+        "address": {
+            "postalcode": "04534011",
+            "street": "Rua Joaquim Floriano",
+            "number": "1000",
+            "details": "apt 142",
+            "district": "Itaim Bibi",
+            "city_state": "São Paulo/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv": {
+        "name": "Davi Stalleiken",
+        "cpf": "000000141AA",
+        "email": "davi@hotmail.com",
+        "whatsapp": "21999999999",
+        "address": {
+            "postalcode": "04534011",
+            "street": "Rua Joaquim Floriano",
+            "number": "1000",
+            "details": "apt 142",
+            "district": "Itaim Bibi",
+            "city_state": "São Paulo/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "email_inv": {
+        "name": "Davi Stalleiken",
+        "cpf": "00000014141",
+        "email": "davi.com.br",
+        "whatsapp": "21999999999",
+        "address": {
+            "postalcode": "04534011",
+            "street": "Rua Joaquim Floriano",
+            "number": "1000",
+            "details": "apt 142",
+            "district": "Itaim Bibi",
+            "city_state": "São Paulo/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+}
